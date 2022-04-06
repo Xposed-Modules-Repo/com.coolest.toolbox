@@ -9,3 +9,8 @@
 
 
 更新随缘
+
+
+
+[手机版MIUI+下载链接](https://github.com/CoolestEnoch/MIUI_Tools/releases/download/V1.6/MIUI%2B_phone_3.5.21.apk)
+(其实从手机上提取一个装平板上不就得了(受虐滑稽))
